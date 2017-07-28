@@ -1,5 +1,5 @@
 # nexus-deployer-webpack-plugin
-nexus deployer as a webpack plugin based on [nexus-deployer](https://github.com/cthorne66/nexus-deployer) from cthorne66 [I'm an inline-style link](https://github.com/cthorne66) 
+nexus deployer as a webpack plugin based on [nexus-deployer](https://github.com/cthorne66/nexus-deployer) from [cthorne66](https://github.com/cthorne66) 
 
 ## Using 
 
