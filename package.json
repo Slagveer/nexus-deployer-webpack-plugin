@@ -1,0 +1,30 @@
+{
+  "name": "nexus-deployer-webpack-plugin",
+  "version": "0.0.1",
+  "description": "nexus deployer as a webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circy/nexus-deployer-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "nexus",
+    "deployer",
+    "node",
+    "plugin"
+  ],
+  "author": "Sebastian Kreissl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/circy/nexus-deployer-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/circy/nexus-deployer-webpack-plugin#readme",
+  "dependencies": {
+    "nexus-deployer": "^0.1.8",
+    "webpack": "^3.4.1"
+  }
+}
