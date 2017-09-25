@@ -16,7 +16,7 @@ NexusDeployer.prototype.apply = function( compiler ) {
 };
 
 NexusDeployer.prototype.deploy = function() {
-    deployer.deploy(this._config);
+    deployer.deploy(this._config, function(){});
 };
 
 module.exports = NexusDeployer;
